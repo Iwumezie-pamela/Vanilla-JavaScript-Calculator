@@ -1,2 +1,2 @@
 # Vanilla-JavaScript-Calculator
-JavaScript project gotten from web dev simplified youtube page
+Vanilla JavaScript Calculator project from web dev simplified youtube page
